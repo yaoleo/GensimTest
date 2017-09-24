@@ -6,10 +6,10 @@
 
 官方文档：https://radimrehurek.com/gensim/tutorial.html
 
-翻译文档：https://radimrehurek.com/gensim/tutorial.html
+翻译文档：http://blog.csdn.net/questionfish/article/details/46739207
 
 实践的时候发现对算法原理不清楚，对怎么用数据集有点迷糊，重读了lsi的原理，笔记：
-http://nbviewer.jupyter.org/github/yaoleo/GensimTest/blob/master/LSI_Learn1.ipynb
+http://nbviewer.jupyter.org/github/yaoleo/GensimTest/blob/master/LSI_Learn.ipynb
 
 ### 一些记录
 
