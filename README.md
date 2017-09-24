@@ -3,7 +3,9 @@
 ## 任务完成：
 
 先检索了一下关键词，觉得学一下框架应该很快就能完成，而且框架非常友好。接着快速的学了一下框架。参考：
+
 官方文档：https://radimrehurek.com/gensim/tutorial.html
+
 翻译文档：https://radimrehurek.com/gensim/tutorial.html
 
 实践的时候发现对算法原理不清楚，对怎么用数据集有点迷糊，重读了lsi的原理，笔记：
